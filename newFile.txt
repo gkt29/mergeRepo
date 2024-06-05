@@ -1,3 +1,4 @@
 xyx
+newline
 abc
 abcd
