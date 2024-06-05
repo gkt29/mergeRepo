@@ -1,4 +1,5 @@
 xyx
+newline
 abc
 
 merge_main branch 1st commit
