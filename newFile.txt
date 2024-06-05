@@ -1,4 +1,8 @@
 xyx
 newline
 abc
-abcd
+
+merge_main branch 1st commit
+merge_main branch 2nd commit
+
+newlone
